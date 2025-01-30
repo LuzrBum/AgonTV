@@ -1,37 +1,35 @@
-## File: [0H_lCGdSjOE.txt](https://studio.youtube.com/video/0H_lCGdSjOE/edit)
-### 20201220 - HOWTO do Analog-Digital-Analog "Painting by Numbers"
+## 20201220 - HOWTO do Analog-Digital-Analog "Painting by Numbers"
+### YouTube video: [0H_lCGdSjOE.txt](https://studio.youtube.com/video/0H_lCGdSjOE/edit)
 * 00:00:00 INTRO
-* 00:00:30 Bob Ross Tribute on the Whiteboard
 * 00:01:00 How to Create a Giant Portrait
-* 00:02:00 Using PBNify for Digital Art
+* 00:02:00 PBNify
 * 00:03:30 The Zen of Painting by Numbers
-* 00:05:00 Editing Art with GIMP
-* 00:07:00 Projecting and Drawing on the Whiteboard
-* 00:09:00 The Final Artwork Reveal
+* 00:05:00 GIMP
+* 00:07:00 Analogification
+* 00:09:00 The Result
 * 00:10:00 OUTRO
-
-### References
-* Bob Ross
-* PBNify
-* GIMP
+## References
+* Bob Ross https://www.youtube.com/@bobross_thejoyofpainting
+* PBNify https://www.google.com/search?q=pbnify
+* GIMP https://www.gimp.org/
 
 ---
 
-## File: [0lBhAoP-TvQ.txt](https://studio.youtube.com/video/0lBhAoP-TvQ/edit)
+### YouTube video: [0lBhAoP-TvQ.txt](https://studio.youtube.com/video/0lBhAoP-TvQ/edit)
+## 20190806 - Back from break, straight to idle
 * 00:00:00 INTRO
-* 00:00:30 Holiday Recap and Apology
 * 00:01:00 Idle Champions of the Forgotten Realms
-* 00:02:00 How Idle Games Work
+* 00:02:00 Idle Games 
 * 00:03:00 Dungeons & Dragons and Acquisitions Incorporated
 * 00:04:00 OUTRO
-
-### References
-* Mentions the connection between the game and Dungeons & Dragons, as well as Acquisitions Incorporated
-* Reference to Fortnite Season 10
+## References
+   - Reference: [Acquisitions Incorporated] (https://www.youtube.com/watch?v=bkp8Nf6FiAc)
+   - Reference: [my Video on Fortnite Season 10] (https://youtu.be/K-bNDflJijE)
 
 ---
 
-## File: [1Ab2eYdqQng.txt](https://studio.youtube.com/video/1Ab2eYdqQng/edit)
+## 20191031 - Concept: Alter Ego
+### YouTube video: [1Ab2eYdqQng.txt](https://studio.youtube.com/video/1Ab2eYdqQng/edit)
 * 00:00:00 INTRO
 * 00:00:30 Exploring the Concept of Alter-Ego
 * 00:01:30 Superheroes and Their Secret Identities
@@ -40,16 +38,14 @@
 
 ---
 
-## File: [1Feeh2BPWXE.txt](https://studio.youtube.com/video/1Feeh2BPWXE/edit)
+## 20190615 - Computer history - Classic Solitaire
+### YouTube video: [1Feeh2BPWXE.txt](https://studio.youtube.com/video/1Feeh2BPWXE/edit)
 * 00:00:00 INTRO
-* 00:00:30 Classic Solitaire: A Nostalgic Journey
-* 00:01:30 Strategies for Winning Solitaire
+* 00:00:30 Classic Solitaire
+* 00:01:30 Strategies 
 * 00:03:00 The Legendary Solitaire Win Animation
 * 00:04:30 OUTRO
 
 ---
-
-## File: [1hlzrCTO0EA.txt](https://studio.youtube.com/video/1hlzrCTO0EA/edit)
-* 00:00:00 INTRO
-* 00:00:10 Music and Emotional Vibes
-* 00:01:00 OUTRO
+## 20241223 - Why fewer videos in 2024 😉😎
+### YouTube video: [1hlzrCTO0EA.txt](https://studio.youtube.com/video/1hlzrCTO0EA/edit)
