@@ -51,21 +51,21 @@
 ## 20241223 - Why fewer videos in 2024 😉😎
 ### YouTube video: [1hlzrCTO0EA.txt](https://studio.youtube.com/video/1hlzrCTO0EA/edit)
 ---
-## 20190615 - Computer history - Classic Solitaire
-### [Video 1](https://studio.youtube.com/video/3tmuGBjOMQg/edit)
+## 20191019 - How to get to Mars on 40 liters of unleaded fuel
+### [YouTube video](https://studio.youtube.com/video/3tmuGBjOMQg/edit)
 
  * 00:00:00 INTRO
- * 00:00:15 The Fortnight Black Hole Event Explained
- * 00:00:45 How I Accidentally Ended Up on Mars
+ * 00:00:15  Fortnite Black Hole Event 
+ * 00:00:45  Accidentally Ended Up on Mars
  * 00:01:20 Mars Rover Footage and Red Planet Illusions
  * 00:02:00 NASA's Red Filter and Mars Selfies
  * 00:02:30 Breaking News: Life on Mars Discovered
  * 00:03:00 How I Got to Mars in a Rental Car
  * 00:04:00 Gravity Assist: The Secret to Space Travel
  * 00:05:00 Tips for Visiting Mars: Wi-Fi and Oxygen
-10. 00:05:25 OUTRO
+ * 00:05:25 OUTRO
 ---
-### [Video 2](https://studio.youtube.com/video/9Axd1qAdfc8/edit)
+### [YouTube video](https://studio.youtube.com/video/9Axd1qAdfc8/edit)
 
  * 00:00:00 INTRO
  * 00:00:30 Taking a Break from Mud Videos
@@ -78,7 +78,7 @@
  * 00:07:00 Creating and Destroying Blocks with Commands
 10. 00:08:00 OUTRO
 ---
-### [Video 3](https://studio.youtube.com/video/9VNhshYAGQ0/edit)
+### [YouTube video](https://studio.youtube.com/video/9VNhshYAGQ0/edit)
 ---
  * 00:00:00 INTRO
  * 00:00:30 Reviewing NovaStar: A BBC Basic Game
@@ -90,7 +90,7 @@
  * 00:06:00 Wordy Bird Code and Game Mechanics
  * 00:07:00 OUTRO
 ---
-### [Video 4](https://studio.youtube.com/video/amwoBb30YRk/edit)
+### [YouTube video](https://studio.youtube.com/video/amwoBb30YRk/edit)
 
  * 00:00:00 INTRO
  * 00:00:30 Breaking News: New Agon Firmware Released
@@ -101,9 +101,9 @@
  * 00:05:00 Hunt the Wumpus: A Classic Text Adventure
  * 00:06:00 Pizza Dash: A Racing Game with Broken Graphics
  * 00:07:00 Pitman: A Boulder Dash-Inspired Game
-10. 00:08:00 OUTRO
+ * 00:08:00 OUTRO
 ---
-### [Video 5](https://studio.youtube.com/video/bDwvFlDvt2M/edit)
+### [YouTube video](https://studio.youtube.com/video/bDwvFlDvt2M/edit)
 
  * 00:00:00 INTRO
  * 00:00:30 Breaking News: Agon Light Programming Challenge Results
