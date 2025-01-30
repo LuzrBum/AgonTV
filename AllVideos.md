@@ -8,7 +8,7 @@
 * 00:07:00 Analogification
 * 00:09:00 The Result
 * 00:10:00 OUTRO
-## References
+
 * Bob Ross https://www.youtube.com/@bobross_thejoyofpainting
 * PBNify https://www.google.com/search?q=pbnify
 * GIMP https://www.gimp.org/
@@ -22,9 +22,9 @@
 * 00:02:00 Idle Games 
 * 00:03:00 Dungeons & Dragons and Acquisitions Incorporated
 * 00:04:00 OUTRO
-## References
-   - Reference: [Acquisitions Incorporated] (https://www.youtube.com/watch?v=bkp8Nf6FiAc)
-   - Reference: [my Video on Fortnite Season 10] (https://youtu.be/K-bNDflJijE)
+
+ * [Acquisitions Incorporated] (https://www.youtube.com/watch?v=bkp8Nf6FiAc)
+ * [my Video on Fortnite Season 10] (https://youtu.be/K-bNDflJijE)
 
 ---
 
@@ -46,6 +46,7 @@
 * 00:03:00 The Legendary Solitaire Win Animation
 * 00:04:30 OUTRO
 
+* Game link TBD
 ---
 ## 20241223 - Why fewer videos in 2024 😉😎
 ### YouTube video: [1hlzrCTO0EA.txt](https://studio.youtube.com/video/1hlzrCTO0EA/edit)
