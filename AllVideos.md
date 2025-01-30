@@ -15,8 +15,8 @@
 
 ---
 
-### YouTube video: [0lBhAoP-TvQ.txt](https://studio.youtube.com/video/0lBhAoP-TvQ/edit)
 ## 20190806 - Back from break, straight to idle
+### YouTube video: [0lBhAoP-TvQ.txt](https://studio.youtube.com/video/0lBhAoP-TvQ/edit)
 * 00:00:00 INTRO
 * 00:01:00 Idle Champions of the Forgotten Realms
 * 00:02:00 Idle Games 
