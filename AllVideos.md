@@ -1,7 +1,6 @@
-##20201220 - HOWTO do Analog-Digital-Analog "Painting by Numbers"
 #### File: [0H_lCGdSjOE.txt](https://studio.youtube.com/video/0H_lCGdSjOE/edit)
 
-
+#### 20201220 - HOWTO do Analog-Digital-Analog "Painting by Numbers"
 
 00:00:00 INTRO
 00:00:30 Bob Ross Tribute on the Whiteboard
