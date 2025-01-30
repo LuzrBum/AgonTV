@@ -47,13 +47,16 @@
 * 00:04:30 OUTRO
 
 * Game link TBD
+
 ---
+
 ## 20241223 - Why fewer videos in 2024 😉😎
 ### YouTube video: [1hlzrCTO0EA.txt](https://studio.youtube.com/video/1hlzrCTO0EA/edit)
+
 ---
+
 ## 20191019 - How to get to Mars on 40 liters of unleaded fuel
 ### [YouTube video](https://studio.youtube.com/video/3tmuGBjOMQg/edit)
-
 * 00:00:00 INTRO
 * 00:00:15  Fortnite Black Hole Event 
 * 00:00:45  Accidentally Ended Up on Mars
@@ -64,7 +67,9 @@
 * 00:04:00 Gravity Assist: The Secret to Space Travel
 * 00:05:00 Tips for Visiting Mars: Wi-Fi and Oxygen
 * 00:05:25 OUTRO
+
 ---
+
 ## 20200308 - Almost a MUD: Minecraft - basics and server
 ### [YouTube video](https://studio.youtube.com/video/9Axd1qAdfc8/edit)
 * 00:00:00 INTRO
@@ -76,7 +81,9 @@
 * 00:06:00 Teleporting and Building in Minecraft
 * 00:07:00 Creating and Destroying Blocks with Commands
 * 00:08:00 OUTRO
+
 ---
+
 ## 20230520 - AgonTV: Game Review "NovaStar" + Breaking News!
 ### [YouTube video](https://studio.youtube.com/video/9VNhshYAGQ0/edit)
 * 00:00 Intro
