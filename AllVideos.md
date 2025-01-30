@@ -65,10 +65,9 @@
  * 00:05:00 Tips for Visiting Mars: Wi-Fi and Oxygen
  * 00:05:25 OUTRO
 ---
+## 20200308 - Almost a MUD: Minecraft - basics and server
 ### [YouTube video](https://studio.youtube.com/video/9Axd1qAdfc8/edit)
-
  * 00:00:00 INTRO
- * 00:00:30 Taking a Break from Mud Videos
  * 00:01:00 Minecraft: The Best-Selling Game of All Time
  * 00:02:00 Minecraft Survival vs. Creative Mode
  * 00:03:00 Multiplayer Minecraft and Free Servers
@@ -76,22 +75,20 @@
  * 00:05:00 Minecraft Commands: Become a God in the Game
  * 00:06:00 Teleporting and Building in Minecraft
  * 00:07:00 Creating and Destroying Blocks with Commands
-10. 00:08:00 OUTRO
+ * 00:08:00 OUTRO
 ---
+## 20230520 - AgonTV: Game Review "NovaStar" + Breaking News!
 ### [YouTube video](https://studio.youtube.com/video/9VNhshYAGQ0/edit)
+ * 00:00 Intro
+ * 00:30 Game Review
+ * 04:40 Breaking News!
+ * 05:30 OMG!! The challenge: https://olimex.wordpress.com/2023/05/05/agonlight-weekend-programming-challenge-issue-2/
+ * 06:40 Wordy Bird - Wordy Bird: https://github.com/LuzrBum/Agon-Projects/tree/main/WordyBird
+ * 09:15 The Code
+ * 11:20 Outro
 ---
- * 00:00:00 INTRO
- * 00:00:30 Reviewing NovaStar: A BBC Basic Game
- * 00:01:00 NovaStar Gameplay and Sound Quality
- * 00:02:00 Keyboard Issues and Future Improvements
- * 00:03:00 NovaStar Code and Potential for C Conversion
- * 00:04:00 Breaking News: Agon Light Programming Challenge Results
- * 00:05:00 Wordy Bird: A Flappy Bird Clone in Text Mode
- * 00:06:00 Wordy Bird Code and Game Mechanics
- * 00:07:00 OUTRO
----
+## 20231016 - AgonTV: News - MOS/VDP 1.04 FINALLY drops + Tour de Games!! WUMPUS!
 ### [YouTube video](https://studio.youtube.com/video/amwoBb30YRk/edit)
-
  * 00:00:00 INTRO
  * 00:00:30 Breaking News: New Agon Firmware Released
  * 00:01:00 Joystick Support and Community Contributions
@@ -103,8 +100,8 @@
  * 00:07:00 Pitman: A Boulder Dash-Inspired Game
  * 00:08:00 OUTRO
 ---
+## 20 - 
 ### [YouTube video](https://studio.youtube.com/video/bDwvFlDvt2M/edit)
-
  * 00:00:00 INTRO
  * 00:00:30 Breaking News: Agon Light Programming Challenge Results
  * 00:01:00 Snake Game: A Procedurally Generated Roguelike
